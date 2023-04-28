@@ -1,5 +1,7 @@
-# GD-Tenis
-Test para Game Disease. Escena de Cancha de tenis con pelotas rebotando aleatoriamente al acercarse. Unreal Engine 5.
+# Ejercicio UE5: Infinite bouncing tennis ball trigger.
+Test en UE5. Escena de Cancha de tenis con pelotas rebotando aleatoriamente al acercarse, y frenando al alejarse. Unreal Engine 5.
+
+Desarrollado como prueba técnica para trabajar en Sereno de mi Mente, dónde luego realicé el Audio Design, Audio Programming y algo de Gameplay Programming.
 
 ## Gameplay
 https://youtu.be/2_MpgOelPEk
